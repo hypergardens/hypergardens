@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hypergardens
-- 👀 I’m interested in front-end, AI and game design.
-- 🌱 I’m currently learning the above.
+- 🌱 I’m interested in creative coding and finding community
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me, soon.
 
